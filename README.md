@@ -12,7 +12,7 @@
 
 `pip install Flask==1.1.1`
 
- pip install pytz
+`pip install pytz`
 
 After installing all dependencies , run `app.py` file
 
